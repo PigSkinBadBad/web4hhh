@@ -3,11 +3,11 @@
 title: 胡宏华
 
 # Name pronunciation (optional)
-name_pronunciation: Hong Hua Hu
+name_pronunciation: Hu Hong Hua
 
 # Full name (for SEO)
-first_name: Hua Hu
-last_name: Hong
+first_name: Hu
+last_name: Hong Hua
 
 # Status emoji
 status:
@@ -17,27 +17,23 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Senior Wireless Network Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: TP-LINK
+    url: https://www.tp-link.com.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:huhonghua@tp-link.com.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: brands/weixin
+    label: Wish-Hself
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://github.com/
 
 education:
   - area: PhD Artificial Intelligence
