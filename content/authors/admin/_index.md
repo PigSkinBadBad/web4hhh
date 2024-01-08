@@ -51,7 +51,7 @@ work:
   - position: Senior Wireless Network Engineer
     company_name: TP-LINK
     company_url: https://www.tp-link.com.cn/
-    company_logo: tplink
+    company_logo: tplink.svg
     date_start: 2022-07-18
     date_end: ''
     summary: |2-
@@ -62,7 +62,7 @@ work:
   - position: Software Engineer of R&D Department
     company_name: TP-LINK
     company_url: https://www.tp-link.com.cn/
-    company_logo: tplink
+    company_logo: tplink.svg
     date_start: 2020-07-18
     date_end: 2022-07-17
     summary: |
