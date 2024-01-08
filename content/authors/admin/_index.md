@@ -83,11 +83,11 @@ skills:
       - name: Linux
         description: ''
         percent: 70
-        icon: chart-bar
+        icon: computer-desktop
       - name: Network
         description: ''
         percent: 80
-        icon: circle-stack
+        icon: globe-alt
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
